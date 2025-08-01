@@ -1,4 +1,4 @@
-and Pillow
+# Encrypted Message in Images with Python and Pillow
 
 This is a simple Python project that allows you to hide (encrypt) text messages inside images and retrieve (decrypt) them later. The project uses the Pillow library for image processing and demonstrates a basic steganography technique by modifying the pixel values to embed ASCII data.
 
