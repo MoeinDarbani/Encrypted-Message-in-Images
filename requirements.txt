@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Pillow==11.3.0
+=======
+pillow-11.3.0
+>>>>>>> c9889818f1aca229a2fbb1cd5020694e37aa7dda
